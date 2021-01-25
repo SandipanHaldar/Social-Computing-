@@ -1,0 +1,4 @@
+1. The subgraphs are given in the "Subgraphs" folder
+2. The Plots will be generated in the "Plots" folder
+3. To compile the "gen_structure.py" use the code given in assignment
+4. To compile the "prepare_subgraph.py" you must have the original graphs in this folder. They can be downloaded from the links given in the Assignment. This file creates the subgraphs.  
