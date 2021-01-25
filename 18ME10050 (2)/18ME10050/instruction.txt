@@ -1,0 +1,5 @@
+1. The Centralities are given respective text files in the "Centralities" folder
+2. The codes can be run using the usual "python <filename.py>"
+3. The "gen_centrality.py" generates the three centralities value for each nodes and store them   in the "centralities" folder in descending order of centrality. They also saves the each of the list as json dumps for future use. These can be ignored as they are automatically removed after the execution of the second portion of the assignment
+4. The "analyse_centrality.py" uses the list saved from the previous code so its compulsory to run the first one before this. It removed unwanted generated files automatically after execution
+5. The expected running time of "gen_centrality.py" is 10 minutes and "analyse_centrality.py" is 1 minute
